@@ -38,8 +38,3 @@ Please input your guess.
 You guessed: 42
 You win!
 ```
-
-## Notes
-
-- The current version prints the secret number to stdout for debugging.
-  Remove that line if you want a real guessing game.
